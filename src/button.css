@@ -1,0 +1,25 @@
+#Button{
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: silver;
+  background-image: url("./snake.png");
+  background-repeat: no-repeat;
+  background-size: 100vw 100vh ;
+  height: 640px;
+  width: 100%;
+  
+}
+#button{
+  /* height: 10vh;
+  width: 10vw; */
+  margin-top: 400px;
+}
+#link{
+  text-decoration: none;
+  color: black;
+  font-weight: bolder;
+  font-size: 20px;
+}
